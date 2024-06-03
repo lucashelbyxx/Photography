@@ -15,3 +15,5 @@ computational photography ...
 3. [虚实](https://github.com/lucashelbyxx/Photography/blob/master/%E6%91%84%E5%BD%B1/%E6%91%84%E5%BD%B1%E7%AC%94%E8%AE%B0/3.%20%E8%99%9A%E5%AE%9E.pdf)
 4. [构图和总结](https://github.com/lucashelbyxx/Photography/blob/master/%E6%91%84%E5%BD%B1/%E6%91%84%E5%BD%B1%E7%AC%94%E8%AE%B0/4.%20%E6%9E%84%E5%9B%BE%E5%92%8C%E6%80%BB%E7%BB%93.pdf)
 
+## 数码相机原理及结构
+1. [数码相机概要](https://github.com/lucashelbyxx/Photography/blob/master/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E5%8E%9F%E7%90%86%E5%8F%8A%E7%BB%93%E6%9E%84/1-%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E6%A6%82%E8%A6%81/1-%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E6%A6%82%E8%A6%81.md)
