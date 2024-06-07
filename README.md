@@ -17,3 +17,8 @@ computational photography ...
 
 ## 数码相机原理及结构
 1. [数码相机概要](https://github.com/lucashelbyxx/Photography/blob/master/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E5%8E%9F%E7%90%86%E5%8F%8A%E7%BB%93%E6%9E%84/1-%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E6%A6%82%E8%A6%81/1-%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E6%A6%82%E8%A6%81.md)
+2. [单反相机与微单相机](https://github.com/lucashelbyxx/Photography/blob/master/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E5%8E%9F%E7%90%86%E5%8F%8A%E7%BB%93%E6%9E%84/2-%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA%E4%B8%8E%E5%BE%AE%E5%8D%95%E7%9B%B8%E6%9C%BA/2-%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA%E4%B8%8E%E5%BE%AE%E5%8D%95%E7%9B%B8%E6%9C%BA.pdf)
+3. [镜头](https://github.com/lucashelbyxx/Photography/blob/master/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E5%8E%9F%E7%90%86%E5%8F%8A%E7%BB%93%E6%9E%84/3-%E9%95%9C%E5%A4%B4/3-%E9%95%9C%E5%A4%B4.pdf)
+4. [图像传感器](https://github.com/lucashelbyxx/Photography/blob/master/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E5%8E%9F%E7%90%86%E5%8F%8A%E7%BB%93%E6%9E%84/4-%E5%9B%BE%E5%83%8F%E4%BC%A0%E6%84%9F%E5%99%A8/4-%E5%9B%BE%E5%83%8F%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)
+5. [数码相机的结构和技术](https://github.com/lucashelbyxx/Photography/blob/master/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E5%8E%9F%E7%90%86%E5%8F%8A%E7%BB%93%E6%9E%84/5-%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E7%9A%84%E7%BB%93%E6%9E%84%E5%92%8C%E6%8A%80%E6%9C%AF/5-%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E7%9A%84%E7%BB%93%E6%9E%84%E5%92%8C%E6%8A%80%E6%9C%AF.pdf)
+6. [图像和记录媒体](https://github.com/lucashelbyxx/Photography/blob/master/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA%E5%8E%9F%E7%90%86%E5%8F%8A%E7%BB%93%E6%9E%84/6-%E5%9B%BE%E5%83%8F%E5%92%8C%E8%AE%B0%E5%BD%95%E5%AA%92%E4%BD%93/6-%E5%9B%BE%E5%83%8F%E5%92%8C%E8%AE%B0%E5%BD%95%E5%AA%92%E4%BD%93.pdf)
